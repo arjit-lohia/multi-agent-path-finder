@@ -20,6 +20,6 @@ task assignments and travel paths to achieve the shortest total completion time.
 </i>
 </div>
 
-#Getting Started
+# Getting Started
 
 # Example 
