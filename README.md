@@ -77,4 +77,5 @@ Therefore, Optimal path for each agents will be
 </i>
 
 <img src="images/2f9bcacc-064c-448f-973b-1cf17e5c5966.png" alt="shopfloor.png" width="1500"/>
+NOTE: Numbers shows the time at which each agent is at location (x, y)
 
