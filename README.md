@@ -5,7 +5,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange)
-![CBS](https://img.shields.io/badge/Conflict%20Based%20Searching-8A2BE2)
+[![CBS](https://img.shields.io/badge/Conflict%20Based%20Searching-8A2BE2)](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
 ![A*](https://img.shields.io/badge/A*%20Algorithm-green)
 </div>
 
