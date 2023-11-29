@@ -57,7 +57,7 @@ Consider three agents: A1, A2, and A3. Each agent is initially positioned at R1,
 </div>
 &nbsp;
 
-<img src="images/Given Problem.png" alt="shopfloor.png" width="1500"/>
+<img src="images/Given Problem.png" alt="problemstatement.png" width="1500"/>
 
 ```
 starting coordinates: [(0, 0), (5, 9), (1, 7)]
