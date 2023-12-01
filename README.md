@@ -79,3 +79,10 @@ Therefore, Optimal path for each agents will be
 <img src="images/2f9bcacc-064c-448f-973b-1cf17e5c5966.png" alt="shopfloor.png" width="1500"/>
 NOTE: Numbers shows the time at which each agent is at location (x, y)
 
+
+
+# What Next?
+1. Using Kmeans algoritm to distribute the task to each robot
+2. Extend it to multiple task system, currently each agent can perform only one task
+3. Which task to perform first in multi-task system 
+
